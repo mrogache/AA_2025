@@ -1,2 +1,4 @@
 # ignore Jupyter checkpoints
 */.ipynb_checkpoints/
+*.md
+.ipynb_checkpoints/LICENSE-checkpoint
